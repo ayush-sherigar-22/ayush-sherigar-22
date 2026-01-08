@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br><br>
+🌱 Artificial Intelligence & Data Science graduate skilled in Machine Learning, Deep Learning, and Python-based model development. Experienced in working with classification models, CNNs, and NLP applications. Highly motivated to learn, experiment, and contribute to data-driven projects in a professional environment.<br><br>
 
 
 ## 🌐 Socials:
