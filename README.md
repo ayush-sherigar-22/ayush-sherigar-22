@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🤖 Building end-to-end Machine Learning projects using real-world datasets  
 🧠 Currently learning Deep Learning & NLP  
